@@ -5,8 +5,7 @@
 
 trigger:
 - master
-
-pool:
+:wqpool:
   vmImage: ubuntu-latest
 
 steps:
